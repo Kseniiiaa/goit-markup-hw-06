@@ -1122,3 +1122,7 @@ textarea::placeholder {
 .footer-subscribe-button:focus {
     background: #404bbf;
 }
+
+.icon-prpt {
+    color: white;
+}
